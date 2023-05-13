@@ -1,0 +1,37 @@
+
+*{
+  padding: 0px;
+  margin:0px;
+  box-sizing: border-box;
+  background-color: black;
+  
+}
+h1{
+  padding: 0px;
+    margin: 0px;
+  width: 18rem;
+  color:white ;
+}
+.Calculator{
+  margin:15rem;
+  margin-left:40rem;
+
+
+}
+button{
+  background-color: white;
+  width:2rem;
+  height:2rem;
+  margin:5px;
+  text-align: center;
+}
+input{
+  border: 2px solid #FFFFFF;
+  color:white;
+  font:16px;
+  width:15rem;
+  height:2rem;
+  padding:8px;
+}
+
+  
